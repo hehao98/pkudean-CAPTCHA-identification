@@ -1,0 +1,430 @@
+Image: 1.png
+The correct answer is: K6VM
+The model's predicted answer is : K6VM
+
+Image: 2.png
+The correct answer is: 82HX
+The model's predicted answer is : 82HX
+
+Image: 3.png
+The correct answer is: 1DVD
+The model's predicted answer is : 1DVD
+
+Image: 4.png
+The correct answer is: XWJ3
+The model's predicted answer is : XWJ3
+
+Image: 5.png
+The correct answer is: PPV1
+The model's predicted answer is : PPV1
+
+Image: 6.png
+The correct answer is: 79WD
+The model's predicted answer is : 73WD
+Perdiction failed!
+
+Image: 7.png
+The correct answer is: YDN7
+The model's predicted answer is : YDN7
+
+Image: 8.png
+The correct answer is: 26LP
+The model's predicted answer is : 26LP
+
+Image: 9.png
+The correct answer is: 67CK
+The model's predicted answer is : 6TCK
+Perdiction failed!
+
+Image: 10.png
+The correct answer is: JCYT
+The model's predicted answer is : JCYT
+
+Image: 11.png
+The correct answer is: 5BCN
+The model's predicted answer is : 5DCN
+Perdiction failed!
+
+Image: 12.png
+The correct answer is: TX8V
+The model's predicted answer is : TX8V
+
+Image: 13.png
+The correct answer is: 3UCM
+The model's predicted answer is : 3UCM
+
+Image: 14.png
+The correct answer is: 8U26
+The model's predicted answer is : 8U26
+
+Image: 15.png
+The correct answer is: MU4T
+The model's predicted answer is : MU4T
+
+Image: 16.png
+The correct answer is: TW2R
+The model's predicted answer is : TW2R
+
+Image: 17.png
+The correct answer is: B1V1
+The model's predicted answer is : B1V1
+
+Image: 18.png
+The correct answer is: 9X47
+The model's predicted answer is : 9X47
+
+Image: 19.png
+The correct answer is: 15CH
+The model's predicted answer is : 15CH
+
+Image: 20.png
+The correct answer is: Y9UX
+The model's predicted answer is : Y3UX
+Perdiction failed!
+
+Image: 21.png
+The correct answer is: 2219
+The model's predicted answer is : 2219
+
+Image: 22.png
+The correct answer is: NRRC
+The model's predicted answer is : NRRC
+
+Image: 23.png
+The correct answer is: 9N4P
+The model's predicted answer is : 3N4P
+Perdiction failed!
+
+Image: 24.png
+The correct answer is: Y3MP
+The model's predicted answer is : Y3MP
+
+Image: 25.png
+The correct answer is: PTP4
+The model's predicted answer is : PJP4
+Perdiction failed!
+
+Image: 26.png
+The correct answer is: 4ALJ
+The model's predicted answer is : 4ALJ
+
+Image: 27.png
+The correct answer is: RP9V
+The model's predicted answer is : RP3V
+Perdiction failed!
+
+Image: 28.png
+The correct answer is: B98M
+The model's predicted answer is : B98M
+
+Image: 29.png
+The correct answer is: UBL2
+The model's predicted answer is : UBL2
+
+Image: 30.png
+The correct answer is: M4RR
+The model's predicted answer is : M4RR
+
+Image: 31.png
+The correct answer is: VTCW
+The model's predicted answer is : V7CW
+Perdiction failed!
+
+Image: 32.png
+The correct answer is: MM73
+The model's predicted answer is : MM73
+
+Image: 33.png
+The correct answer is: APCY
+The model's predicted answer is : APCY
+
+Image: 34.png
+The correct answer is: U3CV
+The model's predicted answer is : U3CV
+
+Image: 35.png
+The correct answer is: UPV3
+The model's predicted answer is : UPV3
+
+Image: 36.png
+The correct answer is: 2UY5
+The model's predicted answer is : 2UY5
+
+Image: 37.png
+The correct answer is: WVHP
+The model's predicted answer is : WYHP
+Perdiction failed!
+
+Image: 38.png
+The correct answer is: 4HT5
+The model's predicted answer is : 4HT5
+
+Image: 39.png
+The correct answer is: VWCH
+The model's predicted answer is : VWCH
+
+Image: 40.png
+The correct answer is: A51A
+The model's predicted answer is : A51A
+
+Image: 41.png
+The correct answer is: YNWA
+The model's predicted answer is : YNWA
+
+Image: 42.png
+The correct answer is: 4CA4
+The model's predicted answer is : 4CA4
+
+Image: 43.png
+The correct answer is: 4176
+The model's predicted answer is : 4176
+
+Image: 44.png
+The correct answer is: J1L4
+The model's predicted answer is : J1L4
+
+Image: 45.png
+The correct answer is: D5MK
+The model's predicted answer is : D5MK
+
+Image: 46.png
+The correct answer is: J44N
+The model's predicted answer is : J4JN
+Perdiction failed!
+
+Image: 47.png
+The correct answer is: YXUR
+The model's predicted answer is : YXUR
+
+Image: 48.png
+The correct answer is: YKRD
+The model's predicted answer is : YKRD
+
+Image: 49.png
+The correct answer is: P314
+The model's predicted answer is : P314
+
+Image: 50.png
+The correct answer is: VYAA
+The model's predicted answer is : VYAA
+
+Image: 51.png
+The correct answer is: 433A
+The model's predicted answer is : 433A
+
+Image: 52.png
+The correct answer is: L69D
+The model's predicted answer is : L63D
+Perdiction failed!
+
+Image: 53.png
+The correct answer is: K4NK
+The model's predicted answer is : K4NK
+
+Image: 54.png
+The correct answer is: HCB6
+The model's predicted answer is : HCD6
+Perdiction failed!
+
+Image: 55.png
+The correct answer is: A4V8
+The model's predicted answer is : A4V3
+Perdiction failed!
+
+Image: 56.png
+The correct answer is: KVWB
+The model's predicted answer is : KVWB
+
+Image: 57.png
+The correct answer is: B45P
+The model's predicted answer is : D45P
+Perdiction failed!
+
+Image: 58.png
+The correct answer is: 57DA
+The model's predicted answer is : 57DA
+
+Image: 59.png
+The correct answer is: XPV9
+The model's predicted answer is : XPV3
+Perdiction failed!
+
+Image: 60.png
+The correct answer is: TP3N
+The model's predicted answer is : TP3N
+
+Image: 61.png
+The correct answer is: 7MXJ
+The model's predicted answer is : 2MXJ
+Perdiction failed!
+
+Image: 62.png
+The correct answer is: 5UYL
+The model's predicted answer is : 5UYL
+
+Image: 63.png
+The correct answer is: L9CP
+The model's predicted answer is : L3CP
+Perdiction failed!
+
+Image: 64.png
+The correct answer is: 5RU3
+The model's predicted answer is : 5RU3
+
+Image: 65.png
+The correct answer is: 2MY2
+The model's predicted answer is : 2MY2
+
+Image: 66.png
+The correct answer is: PC2W
+The model's predicted answer is : PC2W
+
+Image: 67.png
+The correct answer is: 5R2M
+The model's predicted answer is : 5R2M
+
+Image: 68.png
+The correct answer is: LXR5
+The model's predicted answer is : LXR5
+
+Image: 69.png
+The correct answer is: 7CVJ
+The model's predicted answer is : 7CVJ
+
+Image: 70.png
+The correct answer is: 9YM4
+The model's predicted answer is : 3YM4
+Perdiction failed!
+
+Image: 71.png
+The correct answer is: ARBL
+The model's predicted answer is : ARBL
+
+Image: 72.png
+The correct answer is: 885J
+The model's predicted answer is : 885J
+
+Image: 73.png
+The correct answer is: YH34
+The model's predicted answer is : YH34
+
+Image: 74.png
+The correct answer is: NTPH
+The model's predicted answer is : N7PH
+Perdiction failed!
+
+Image: 75.png
+The correct answer is: X8C4
+The model's predicted answer is : X8C4
+
+Image: 76.png
+The correct answer is: 9BTR
+The model's predicted answer is : 9BTR
+
+Image: 77.png
+The correct answer is: UX6X
+The model's predicted answer is : UX6X
+
+Image: 78.png
+The correct answer is: R2MY
+The model's predicted answer is : R2MY
+
+Image: 79.png
+The correct answer is: 9BH8
+The model's predicted answer is : 9DH8
+Perdiction failed!
+
+Image: 80.png
+The correct answer is: 6577
+The model's predicted answer is : 6577
+
+Image: 81.png
+The correct answer is: R8DM
+The model's predicted answer is : R8DM
+
+Image: 82.png
+The correct answer is: 4L8B
+The model's predicted answer is : 4L8B
+
+Image: 83.png
+The correct answer is: B4JU
+The model's predicted answer is : D4JU
+Perdiction failed!
+
+Image: 84.png
+The correct answer is: VUBT
+The model's predicted answer is : VUDT
+Perdiction failed!
+
+Image: 85.png
+The correct answer is: Y8Y1
+The model's predicted answer is : Y8Y1
+
+Image: 86.png
+The correct answer is: W829
+The model's predicted answer is : W823
+Perdiction failed!
+
+Image: 87.png
+The correct answer is: J9XH
+The model's predicted answer is : J3XH
+Perdiction failed!
+
+Image: 88.png
+The correct answer is: 7CT6
+The model's predicted answer is : 7CT6
+
+Image: 89.png
+The correct answer is: 3P8V
+The model's predicted answer is : 3P8V
+
+Image: 90.png
+The correct answer is: XULU
+The model's predicted answer is : XULU
+
+Image: 91.png
+The correct answer is: VB64
+The model's predicted answer is : VB64
+
+Image: 92.png
+The correct answer is: KABB
+The model's predicted answer is : KABB
+
+Image: 93.png
+The correct answer is: 7YNP
+The model's predicted answer is : 7YNP
+
+Image: 94.png
+The correct answer is: B775
+The model's predicted answer is : B775
+
+Image: 95.png
+The correct answer is: X7X6
+The model's predicted answer is : X7X6
+
+Image: 96.png
+The correct answer is: XNAR
+The model's predicted answer is : XNAR
+
+Image: 97.png
+The correct answer is: RW5C
+The model's predicted answer is : RW5C
+
+Image: 98.png
+The correct answer is: 4KX5
+The model's predicted answer is : 4KX5
+
+Image: 99.png
+The correct answer is: 6WLU
+The model's predicted answer is : 6WLU
+
+Image: 100.png
+The correct answer is: N7B8
+The model's predicted answer is : N7D8
+Perdiction failed!
+
+**********Report**********
+Total images: 100
+Images guessed correct: 75
+Total chars: 400
+Chars guessed correct: 375

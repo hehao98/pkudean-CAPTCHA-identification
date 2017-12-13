@@ -1,0 +1,412 @@
+Image: 1.png
+The correct answer is: K6VM
+Our predicted answer is : K6VM
+
+Image: 2.png
+The correct answer is: 82HX
+Our predicted answer is : 82HX
+
+Image: 3.png
+The correct answer is: 1DVD
+Our predicted answer is : 1DVD
+
+Image: 4.png
+The correct answer is: XWJ3
+Our predicted answer is : XWJ3
+
+Image: 5.png
+The correct answer is: PPV1
+Our predicted answer is : PPV1
+
+Image: 6.png
+The correct answer is: 79WD
+Our predicted answer is : 79WD
+
+Image: 7.png
+The correct answer is: YDN7
+Our predicted answer is : YDN7
+
+Image: 8.png
+The correct answer is: 26LP
+Our predicted answer is : 26LP
+
+Image: 9.png
+The correct answer is: 67CK
+Our predicted answer is : 6TCK
+Perdiction failed!
+
+Image: 10.png
+The correct answer is: JCYT
+Our predicted answer is : JCYT
+
+Image: 11.png
+The correct answer is: 5BCN
+Our predicted answer is : 5BCN
+
+Image: 12.png
+The correct answer is: TX8V
+Our predicted answer is : TX8V
+
+Image: 13.png
+The correct answer is: 3UCM
+Our predicted answer is : 3UCM
+
+Image: 14.png
+The correct answer is: 8U26
+Our predicted answer is : 8U26
+
+Image: 15.png
+The correct answer is: MU4T
+Our predicted answer is : MU4T
+
+Image: 16.png
+The correct answer is: TW2R
+Our predicted answer is : TW2R
+
+Image: 17.png
+The correct answer is: B1V1
+Our predicted answer is : B1V1
+
+Image: 18.png
+The correct answer is: 9X47
+Our predicted answer is : 9X47
+
+Image: 19.png
+The correct answer is: 15CH
+Our predicted answer is : 15CH
+
+Image: 20.png
+The correct answer is: Y9UX
+Our predicted answer is : Y9UX
+
+Image: 21.png
+The correct answer is: 2219
+Our predicted answer is : 2219
+
+Image: 22.png
+The correct answer is: NRRC
+Our predicted answer is : NRRC
+
+Image: 23.png
+The correct answer is: 9N4P
+Our predicted answer is : 9N4P
+
+Image: 24.png
+The correct answer is: Y3MP
+Our predicted answer is : Y3MP
+
+Image: 25.png
+The correct answer is: PTP4
+Our predicted answer is : P7P4
+Perdiction failed!
+
+Image: 26.png
+The correct answer is: 4ALJ
+Our predicted answer is : 4ALJ
+
+Image: 27.png
+The correct answer is: RP9V
+Our predicted answer is : RP9V
+
+Image: 28.png
+The correct answer is: B98M
+Our predicted answer is : B98M
+
+Image: 29.png
+The correct answer is: UBL2
+Our predicted answer is : UBL2
+
+Image: 30.png
+The correct answer is: M4RR
+Our predicted answer is : M4RR
+
+Image: 31.png
+The correct answer is: VTCW
+Our predicted answer is : V7CW
+Perdiction failed!
+
+Image: 32.png
+The correct answer is: MM73
+Our predicted answer is : MM73
+
+Image: 33.png
+The correct answer is: APCY
+Our predicted answer is : APCY
+
+Image: 34.png
+The correct answer is: U3CV
+Our predicted answer is : U3CV
+
+Image: 35.png
+The correct answer is: UPV3
+Our predicted answer is : UPV3
+
+Image: 36.png
+The correct answer is: 2UY5
+Our predicted answer is : 2UY5
+
+Image: 37.png
+The correct answer is: WVHP
+Our predicted answer is : WVHP
+
+Image: 38.png
+The correct answer is: 4HT5
+Our predicted answer is : 4HT5
+
+Image: 39.png
+The correct answer is: VWCH
+Our predicted answer is : VWCH
+
+Image: 40.png
+The correct answer is: A51A
+Our predicted answer is : A51A
+
+Image: 41.png
+The correct answer is: YNWA
+Our predicted answer is : YNWA
+
+Image: 42.png
+The correct answer is: 4CA4
+Our predicted answer is : 4CA4
+
+Image: 43.png
+The correct answer is: 4176
+Our predicted answer is : 4176
+
+Image: 44.png
+The correct answer is: J1L4
+Our predicted answer is : J1L4
+
+Image: 45.png
+The correct answer is: D5MK
+Our predicted answer is : D5MK
+
+Image: 46.png
+The correct answer is: J44N
+Our predicted answer is : J4JN
+Perdiction failed!
+
+Image: 47.png
+The correct answer is: YXUR
+Our predicted answer is : YXUR
+
+Image: 48.png
+The correct answer is: YKRD
+Our predicted answer is : YKRD
+
+Image: 49.png
+The correct answer is: P314
+Our predicted answer is : P314
+
+Image: 50.png
+The correct answer is: VYAA
+Our predicted answer is : VYAA
+
+Image: 51.png
+The correct answer is: 433A
+Our predicted answer is : 433A
+
+Image: 52.png
+The correct answer is: L69D
+Our predicted answer is : L69D
+
+Image: 53.png
+The correct answer is: K4NK
+Our predicted answer is : K4NK
+
+Image: 54.png
+The correct answer is: HCB6
+Our predicted answer is : HCB6
+
+Image: 55.png
+The correct answer is: A4V8
+Our predicted answer is : A4V3
+Perdiction failed!
+
+Image: 56.png
+The correct answer is: KVWB
+Our predicted answer is : KVWB
+
+Image: 57.png
+The correct answer is: B45P
+Our predicted answer is : B45P
+
+Image: 58.png
+The correct answer is: 57DA
+Our predicted answer is : 57DA
+
+Image: 59.png
+The correct answer is: XPV9
+Our predicted answer is : XPV9
+
+Image: 60.png
+The correct answer is: TP3N
+Our predicted answer is : TP3N
+
+Image: 61.png
+The correct answer is: 7MXJ
+Our predicted answer is : 2MXJ
+Perdiction failed!
+
+Image: 62.png
+The correct answer is: 5UYL
+Our predicted answer is : 5UYL
+
+Image: 63.png
+The correct answer is: L9CP
+Our predicted answer is : L9CP
+
+Image: 64.png
+The correct answer is: 5RU3
+Our predicted answer is : 5RU3
+
+Image: 65.png
+The correct answer is: 2MY2
+Our predicted answer is : 2MY2
+
+Image: 66.png
+The correct answer is: PC2W
+Our predicted answer is : PC2W
+
+Image: 67.png
+The correct answer is: 5R2M
+Our predicted answer is : 5R2M
+
+Image: 68.png
+The correct answer is: LXR5
+Our predicted answer is : LXR5
+
+Image: 69.png
+The correct answer is: 7CVJ
+Our predicted answer is : 7CVJ
+
+Image: 70.png
+The correct answer is: 9YM4
+Our predicted answer is : 9YM4
+
+Image: 71.png
+The correct answer is: ARBL
+Our predicted answer is : ARBL
+
+Image: 72.png
+The correct answer is: 885J
+Our predicted answer is : 885J
+
+Image: 73.png
+The correct answer is: YH34
+Our predicted answer is : YH34
+
+Image: 74.png
+The correct answer is: NTPH
+Our predicted answer is : N7PH
+Perdiction failed!
+
+Image: 75.png
+The correct answer is: X8C4
+Our predicted answer is : X8C4
+
+Image: 76.png
+The correct answer is: 9BTR
+Our predicted answer is : 9BTR
+
+Image: 77.png
+The correct answer is: UX6X
+Our predicted answer is : UX6X
+
+Image: 78.png
+The correct answer is: R2MY
+Our predicted answer is : R2MY
+
+Image: 79.png
+The correct answer is: 9BH8
+Our predicted answer is : 9BH8
+
+Image: 80.png
+The correct answer is: 6577
+Our predicted answer is : 6577
+
+Image: 81.png
+The correct answer is: R8DM
+Our predicted answer is : R8DM
+
+Image: 82.png
+The correct answer is: 4L8B
+Our predicted answer is : 4L8B
+
+Image: 83.png
+The correct answer is: B4JU
+Our predicted answer is : B4JU
+
+Image: 84.png
+The correct answer is: VUBT
+Our predicted answer is : VUBT
+
+Image: 85.png
+The correct answer is: Y8Y1
+Our predicted answer is : Y8Y1
+
+Image: 86.png
+The correct answer is: W829
+Our predicted answer is : W829
+
+Image: 87.png
+The correct answer is: J9XH
+Our predicted answer is : J9XH
+
+Image: 88.png
+The correct answer is: 7CT6
+Our predicted answer is : 7CT6
+
+Image: 89.png
+The correct answer is: 3P8V
+Our predicted answer is : 3P8V
+
+Image: 90.png
+The correct answer is: XULU
+Our predicted answer is : XULU
+
+Image: 91.png
+The correct answer is: VB64
+Our predicted answer is : VB64
+
+Image: 92.png
+The correct answer is: KABB
+Our predicted answer is : KABB
+
+Image: 93.png
+The correct answer is: 7YNP
+Our predicted answer is : 7YNP
+
+Image: 94.png
+The correct answer is: B775
+Our predicted answer is : B775
+
+Image: 95.png
+The correct answer is: X7X6
+Our predicted answer is : X7X6
+
+Image: 96.png
+The correct answer is: XNAR
+Our predicted answer is : XNAR
+
+Image: 97.png
+The correct answer is: RW5C
+Our predicted answer is : RW5C
+
+Image: 98.png
+The correct answer is: 4KX5
+Our predicted answer is : 4KX5
+
+Image: 99.png
+The correct answer is: 6WLU
+Our predicted answer is : 6WLU
+
+Image: 100.png
+The correct answer is: N7B8
+Our predicted answer is : N7B8
+
+**********Report**********
+Total images: 100
+Images guessed correct: 93
+Total chars: 400
+Chars guessed correct: 393
